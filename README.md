@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on AI-based Smart Meter<br>🌱 I’m currently learning Flutter
 <br>
+<br>
 ![](https://komarev.com/ghpvc/?username=Sohamjadiye)
 
 ## 🌐 Socials:
